@@ -18,7 +18,7 @@ Currently a Data Scientist at **XYZ Power Capital** (Wilmington, DE), building q
 
 - **arXiv 2405.20500** — *Hybrid RL Framework for Mixed-Variable Problems* (Zhai, **Hu**, Chen, 2024)
 - **Amazon Alexa AI** publication on BERT fine-tuning for entity resolution (2020 internship)
-- **Kaggle Gold** — Home Credit Default Risk: rank **22 / 7,190** (top 0.3 %)
+- **Kaggle Gold** — Home Credit Default Risk: rank **22 / 7,190** (top 0.3 %) · [Kaggle profile](https://www.kaggle.com/caojiiu)
 - 4 peer-reviewed math papers from the PhD years
 
 #### 🛠 Stack
@@ -31,4 +31,4 @@ Tsinghua BS Math → Georgia Tech PhD Math → University of Iowa BA English / C
 
 #### 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/qianli-hu-061b95167/) · qianlihuwork@gmail.com
+[LinkedIn](https://www.linkedin.com/in/qianli-hu-061b95167/) · [Kaggle](https://www.kaggle.com/caojiiu) · qianlihuwork@gmail.com
