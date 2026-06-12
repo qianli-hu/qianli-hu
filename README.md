@@ -9,6 +9,7 @@ Currently a Data Scientist at **XYZ Power Capital** (Wilmington, DE), building q
 
 | Repo | What it is |
 |---|---|
+| [`BTP_RAG_demo`](https://github.com/qianli-hu/BTP_RAG_demo) | **Production-grade RAG** over SAP BTP docs on **SAP HANA Cloud Vector** — hybrid retrieval (dense ⊕ BM25 → RRF), grounded answers with chunk-level citations, calibrated refusal gate, **adversarial eval harness** (faithfulness 0.983 · 7/7 out-of-scope refusal · measured RAG-vs-no-RAG ablation) with **LLM-as-judge wired into CI** + nightly docs-drift detection. FastAPI + Streamlit. |
 | [`AI-caries`](https://github.com/qianli-hu/AI-caries) | Fine-tuned **Qwen2-VL** for caries detection from intra-oral photos. Outperforms zero-shot **GPT-4o** and **Gemini 2.5 Flash** on the clinical benchmark. Joint with Splunk AI / Cisco and the National Clinical Research Center for Oral Diseases. *(paper in prep)* |
 | [`AI-director`](https://github.com/qianli-hu/AI-director) | Web-based **agentic pipeline** (Iterative ReAct + GLM-4.7) that turns a one-line pitch into a multi-shot animated short. "Triple Shield" strategy for character consistency across scenes. Next.js + FastAPI. |
 | [`hybrid-rl-companion`](https://github.com/qianli-hu/hybrid-rl-companion) | Clean reference implementation accompanying *Hybrid Reinforcement Learning Framework for Mixed-Variable Problems* — RL for discrete vars + Bayesian Optimization for continuous vars. Joint with Haoyan Zhai and Jiangning Chen ([arXiv 2405.20500](https://arxiv.org/abs/2405.20500)). |
